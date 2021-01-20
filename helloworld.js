@@ -1,2 +1,1 @@
-console.log("Hello World");
-console.log("Nisfa");
+console.log("Nisfa elek");
