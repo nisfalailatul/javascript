@@ -45,12 +45,13 @@ html body{
 
 /*Responsive Breakpoint*/
 @media screen and (min-width : 576px){
-    .container
+    .container{
     grid-template-areas : 
     'header header header'
     'sidebar content content'
     'sidebar content content'
     'footer footer footer';
+    }
 }
 
 
